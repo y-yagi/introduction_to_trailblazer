@@ -1,1 +1,1 @@
-## Trailblazerってなによ
+## Trailblazerとは
