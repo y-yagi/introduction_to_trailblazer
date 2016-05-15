@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "introduction_to_trailblazer",
+    "packageVersion": "0.0.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "y-yagi",
+    "githubRepository": "present_introduction_to_trailblazer"
+  }
+}
