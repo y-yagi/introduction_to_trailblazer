@@ -1,6 +1,6 @@
 ## Policy
 
-* 認可処理を定義する
+* 認可処理
 * [pundit](https://github.com/elabs/pundit)っぽく書ける
   * "policy class is heavily inspired by the excellent Pundit gem"との事
 * punditで書いたpolicy classをそのまま使う事も可能

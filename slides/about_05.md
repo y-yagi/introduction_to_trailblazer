@@ -5,4 +5,5 @@
   * Sinatra + Trailblazer
   * Grape + Trailblazer
   * Hanami + Trailblazer
+  * etc
 * Trailblazer自体にWebフレームワークとしての機能は無い

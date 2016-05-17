@@ -1,7 +1,7 @@
 ## Model
 
 * Modelにはassociaton、scope、finderのみを定義する
-* 当然ビジネスロジックは書か
+* 当然ビジネスロジックは書かない
 * callback / validationも書かない
 
 ```ruby

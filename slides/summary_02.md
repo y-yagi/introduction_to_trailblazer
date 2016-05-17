@@ -1,6 +1,8 @@
-## 参考資料
+## 気になること
 
-* [Trailblazer: A High-Level Architecture For The Web](http://trailblazer.to/)
-* [apotonick/trailblazer: A high-level architecture for the web.](https://github.com/apotonick/trailblazer)
-* [Trailblazer by Nick Sutterer [Leanpub PDF/iPad/Kindle]](https://leanpub.com/trailblazer)
-* [apotonick/gemgem-trbrb: The Trailblazer book's example app.](https://github.com/apotonick/gemgem-trbrb)
+* 学習コストの高さ
+  * Webフレームワーク + Trailblazerになるので、最初の学習コスト高そう
+  * どのくらいの規模になるとその学習コストがペイ出来るかは難しい
+* fat operationにならない?
+  * callback / formを適切に分割出来れば大丈夫?
+  * この辺りの勘所は実運用してみないとわからなそう

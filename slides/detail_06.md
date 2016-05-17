@@ -1,8 +1,8 @@
 ## Operation
 
 * ビジネスロジックを定義する(service object)
-* modelを保存する処理を定義するのもここ
-* validation / callback / authorizationもここに含まれる
+* modelを保存する処理を定義するのはOperationだけ
+* validation / callback / authorizationもOperationに含まれる
 
 ```ruby
 class Comment::Create < Trailblazer::Operation
